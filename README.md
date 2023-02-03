@@ -17,4 +17,4 @@ Setup/Installation Requirements:
 1. Clone this repository to your desktop
 2. Install the latest version of nodejs from the internet.
 3. Run the command `npm i` from the Terminal of your choice to install required packages.
-4. Run the command `node /path/to/index.js` to start the application.
+4. Run the command `node /path/to/index.js` to get output.
